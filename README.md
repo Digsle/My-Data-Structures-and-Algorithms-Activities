@@ -40,3 +40,25 @@ How does it help?
 For me: It helped me learn Java and how to manage tasks in an organized way.
 For others: It can show how to use priority queues and is useful for students learning about scheduling or task management.
 
+
+
+//Basic Hashing and Hash Table!
+
+Student Directory
+
+What is it?
+The Student Directory is a simple Java program that helps manage student records. It uses a hash table to store student IDs and names.
+
+What can it do?
+1. Add a Student: Save a student's ID and name.  
+2. View a Student: Find a student's name using their ID.  
+3. Delete a Student: Remove a student from the list using their ID.  
+4. Exit: Close the program.
+
+Why did I make it?
+Practice coding and learn how to use hash tables (HashMap) in Java. Create a simple tool to show how to store and retrieve data quickly.
+
+How does it help?
+For me: It helped me practice coding and learn about managing data.
+For others: It might be easy to understand and a good starting point for beginners learning Java.
+
